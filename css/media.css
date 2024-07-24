@@ -1,0 +1,165 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*banner start here*/
+.ban_h1 {
+    padding: 65px 0 25px;
+    font-size: 25px;
+    line-height: 45px;
+}
+.ban_p {
+    padding: 0;
+    font-size: 18px;
+}
+.banner_btn {
+    margin: 45px 0 65px;
+}
+/*feature start here*/
+.tp {
+    padding-top: 15px;
+}
+.bp {
+    padding-bottom: 25px;
+}
+.feature_item {
+    margin-top: 25px;
+}
+.fea_h2{
+    padding: 25px 0;
+}
+/*work start here*/
+.work_item {
+    margin-top: 30px;
+}
+/*team start here*/
+.team_item{
+    margin-top: 30px;
+    text-align: center;
+}
+.tm_h3 {
+    margin: 20px 0 10px;
+}
+.tm_p {
+    margin: 15px 0 25px;
+}
+
+/*footer start here*/
+.footer_content{
+    margin-bottom: 30px;
+}
+
+
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*banner start here*/
+.ban_h1 {
+    padding: 80px 0 30px;
+    font-size: 35px;
+    line-height: 55px;
+}
+.ban_p {
+    padding: 0;
+    font-size: 18px;
+}
+.banner_btn {
+    margin: 60px 0 80px;
+}
+/*feature start here*/
+.tp {
+    padding-top: 25px;
+}
+.bp {
+    padding-bottom: 15px;
+}
+.feature_item {
+    margin-top: 45px;
+}
+.fea_h2{
+    padding: 25px 0;
+}
+/*work start here*/
+.work_item {
+    margin-top: 35px;
+}
+/*team start here*/
+.team_item{
+    margin-top: 35px;
+}
+.tm_h3 {
+    margin: 20px 0 10px;
+}
+.tm_p {
+    margin: 15px 0 25px;
+}
+/*footer start here*/
+.footer_content{
+    margin-bottom: 35px;
+}
+
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*banner start here*/
+.ban_h1 {
+    padding: 115px 0 40px;
+    font-size: 50px;
+}
+.ban_p {
+    padding: 0;
+}
+.banner_btn {
+    margin: 80px 0 115px;
+}
+/*feature start here*/
+.tp {
+    padding-top: 40px;
+}
+.bp {
+    padding-bottom: 45px;
+}
+/*team start here*/
+.team_item{
+    margin-top: 45px;
+}
+.tm_h3 {
+    margin: 20px 0 10px;
+}
+.tm_p {
+    margin: 20px 0 25px;
+}
+/*footer start here*/
+.footer_content{
+    margin-bottom: 45px;
+}
+
+
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*banner start here*/
+.ban_p {
+    padding: 0;
+}
+
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+
+}
+
+/*Extra Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+}
